@@ -10,6 +10,15 @@ System.out.println("2");
 private void method3() {
 System.out.println("3");
 }
+private void tamilNadu() {
+System.out.println("4");
+}
+private void chennai() {
+System.out.println("5");
+}
+private void kolkata() {
+System.out.println("6");
+}
 private void india() {
 System.out.println("indian");
 }
@@ -18,5 +27,6 @@ System.out.println("pakistan");
 }
 private void australia() {
 System.out.println("usa");
+
 }
 }
