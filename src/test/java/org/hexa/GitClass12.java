@@ -19,4 +19,14 @@ System.out.println("5");
 private void kolkata() {
 System.out.println("6");
 }
+private void india() {
+System.out.println("indian");
+}
+private void pakistan() {
+System.out.println("pakistan");
+}
+private void australia() {
+System.out.println("usa");
+
+}
 }
